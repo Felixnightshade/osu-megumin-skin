@@ -1,6 +1,7 @@
 # Megumin - Felixnightshade
 
-This is my personal mixed skin with a Megumin theme. 
+This is my personal mixed skin with a Megumin theme.  
+Has an optional patch for the Traceable lazer mod.
 
 *This skin is made for osu!lazer*
 
